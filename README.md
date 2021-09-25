@@ -4,6 +4,7 @@
 ![組織図1](https://user-images.githubusercontent.com/86583453/134768770-251bea5e-1048-4024-8f1f-3eeb3b671311.jpg)
 ![組織図2](https://user-images.githubusercontent.com/86583453/134768785-e37042fa-6cea-4df9-b76a-131fd441b5d1.jpg)
 ![出社頻度](https://user-images.githubusercontent.com/86583453/134769362-61f5301b-1f8a-49a3-8a26-701805601b24.png)
+![勉強方法](https://user-images.githubusercontent.com/86583453/134770048-3a0f4d97-eb4d-414f-a9c3-718ec7bd1de6.png)
 
 <!--
 **kanakohiraga/kanakohiraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
