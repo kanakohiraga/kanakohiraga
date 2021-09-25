@@ -9,6 +9,7 @@
 ![休日](https://user-images.githubusercontent.com/86583453/134771934-7c1c5570-1d0e-42fd-82bd-03fdd24f7081.png)
 ![健康維持](https://user-images.githubusercontent.com/86583453/134773778-42a4c59e-f391-409f-bfea-1a8dc8c18dd9.png)
 ![いいところ](https://user-images.githubusercontent.com/86583453/134774745-ff2fc140-4d88-469e-a65a-29f5a5204bf0.png)
+![エンジニア集合写真①](https://user-images.githubusercontent.com/86583453/134775070-b1be4363-7e7c-4b1b-aefb-9fd383551599.JPG)
 
 <!--
 **kanakohiraga/kanakohiraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
