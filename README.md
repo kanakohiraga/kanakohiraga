@@ -6,6 +6,7 @@
 ![出社頻度](https://user-images.githubusercontent.com/86583453/134769362-61f5301b-1f8a-49a3-8a26-701805601b24.png)
 ![勉強方法](https://user-images.githubusercontent.com/86583453/134770048-3a0f4d97-eb4d-414f-a9c3-718ec7bd1de6.png)
 ![勉強内容](https://user-images.githubusercontent.com/86583453/134770551-d1465c01-85c1-4712-892a-f39058b759d9.png)
+![休日](https://user-images.githubusercontent.com/86583453/134771934-7c1c5570-1d0e-42fd-82bd-03fdd24f7081.png)
 
 <!--
 **kanakohiraga/kanakohiraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
