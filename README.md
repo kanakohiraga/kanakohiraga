@@ -1,7 +1,8 @@
 ### Hi there 👋  
 ### README
-![組織図](https://user-images.githubusercontent.com/86583453/134767687-c8716cac-4234-44af-a2ae-0ffe43881118.png)
-![組織図2](https://user-images.githubusercontent.com/86583453/134768496-ce6ff528-175b-4e68-adeb-660f86a00689.png)
+
+![組織図1](https://user-images.githubusercontent.com/86583453/134768770-251bea5e-1048-4024-8f1f-3eeb3b671311.jpg)
+![組織図2](https://user-images.githubusercontent.com/86583453/134768785-e37042fa-6cea-4df9-b76a-131fd441b5d1.jpg)
 
 <!--
 **kanakohiraga/kanakohiraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
