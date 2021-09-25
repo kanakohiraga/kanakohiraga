@@ -10,6 +10,7 @@
 ![健康維持](https://user-images.githubusercontent.com/86583453/134773778-42a4c59e-f391-409f-bfea-1a8dc8c18dd9.png)
 ![いいところ](https://user-images.githubusercontent.com/86583453/134774745-ff2fc140-4d88-469e-a65a-29f5a5204bf0.png)
 ![エンジニア集合写真①](https://user-images.githubusercontent.com/86583453/134775070-b1be4363-7e7c-4b1b-aefb-9fd383551599.JPG)
+![QR_採用](https://user-images.githubusercontent.com/86583453/134775259-33e53020-72d5-4f00-8027-0421a30d96b3.png)
 
 <!--
 **kanakohiraga/kanakohiraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
