@@ -1,6 +1,7 @@
 ### Hi there 👋  
 ### README
-![組織図.pdf](https://github.com/asken-private/tech-blog/files/7229526/default.pdf)
+![組織図](https://user-images.githubusercontent.com/86583453/134767687-c8716cac-4234-44af-a2ae-0ffe43881118.png)
+
 
 <!--
 **kanakohiraga/kanakohiraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
